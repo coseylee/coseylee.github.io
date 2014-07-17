@@ -320,6 +320,24 @@ a.sidebar-nav-item:focus {
   color: #9a9a9a;
 }
 
+blockquote {
+  padding-right:0;
+}
+
+p.center {
+  text-align: center;
+  margin: 0 auto;
+}
+p.center a {
+  display: block;
+  margin:0;
+  padding:0;
+}
+p.center img {
+  display: inline-block;
+  margin:.3rem 0 0 0;
+}
+
 /* Related posts */
 .related {
   padding-top: 2rem;

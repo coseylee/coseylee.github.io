@@ -2,8 +2,11 @@
 layout: post
 date: 2014-07-17
 title: 在 Ubuntu 上安装 Jekyll 小记
-categories: 技术
-tag: ubuntu jekyll
+categories:
+- 技术生活
+tag:
+- Ubuntu
+- Jekyll
 ---
 
 这两天打算把之前注销的GitHub帐号重新启用，用来写博客用。  
