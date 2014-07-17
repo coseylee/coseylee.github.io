@@ -20,19 +20,19 @@ tags:
 启动器
 
 {:.center}
-[![Develop Server-2013-09-17-11-40-09.png](/uploadfile/201309/thum-2f221379390033.png)](/uploadfile/201309/2f221379390033.png) 
+[![Develop Server-2013-09-17-11-40-09.png](/uploadfile/201309/thum-2f221379390033.png)](/uploadfile/201309/2f221379390033.png)
 文件管理
 
 {:.center}
-[![Develop Server-2013-09-17-11-40-18.png](/uploadfile/201309/thum-ef8c1379390063.png)](/uploadfile/201309/ef8c1379390063.png) 
+[![Develop Server-2013-09-17-11-40-18.png](/uploadfile/201309/thum-ef8c1379390063.png)](/uploadfile/201309/ef8c1379390063.png)
 命令行
 
 {:.center}
-[![Develop Server-2013-09-17-11-41-13.png](/uploadfile/201309/thum-b0b51379390070.png)](/uploadfile/201309/b0b51379390070.png) 
+[![Develop Server-2013-09-17-11-41-13.png](/uploadfile/201309/thum-b0b51379390070.png)](/uploadfile/201309/b0b51379390070.png)
 设置中心
 
 {:.center}
-[![Develop Server-2013-09-17-11-42-54.png](/uploadfile/201309/thum-43aa1379390081.png)](/uploadfile/201309/43aa1379390081.png)  
+[![Develop Server-2013-09-17-11-42-54.png](/uploadfile/201309/thum-43aa1379390081.png)](/uploadfile/201309/43aa1379390081.png)
 工作区切换
 
 >在使用上几乎和 Ubuntu 一样，同样使用APT作为包管理，源也基本通用。  
