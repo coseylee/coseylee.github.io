@@ -1,11 +1,40 @@
-<!DOCTYPE html>
-<html>
-  <head>
-	<meta charset='utf-8'>
-	<meta http-equiv="X-UA-Compatible" content="chrome=1">
-	<title>coseylee@github</title>
-  </head>
-  <body>
-  	<span>我的博客</span>
-  </body>
-</html>
+---
+layout: default
+title: 首页
+---
+
+<div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h2 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h2>
+
+    <span class="post-date">{{ post.date | date: "%Y年%m月%d日" }}</span>
+
+    <div class="message">
+      {{ post.excerpt | markdownify }}
+    </div>
+
+  </div>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ site.baseurl }}page-{{paginator.next_page}}">下一页</a>
+  {% else %}
+    <span class="pagination-item older">下一页</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}">上一页</a>
+    {% else %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}page-{{paginator.previous_page}}">上一页</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer">上一页</span>
+  {% endif %}
+</div>

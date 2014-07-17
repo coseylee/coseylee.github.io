@@ -1,0 +1,24 @@
+# Dependencies
+markdown: redcarpet
+highlighter: pygments
+
+# Permalinks
+permalink: /:year-:month-:day-:title.html
+
+# Setup
+baseurl: /
+title: Cosey's Blog
+tagline: 'a web developer'
+description: '砍省程序猿一枚'
+url: http://coseylee.com
+paginate: 10
+paginate_path: "page-:num"
+
+author:
+  name: 'Coseylee'
+
+# Custom vars
+version: 1.0.0
+
+github:
+  repo: https://github.com/coseylee/coseylee.github.io
