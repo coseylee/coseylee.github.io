@@ -8,8 +8,7 @@ permalink: /:year-:month-:day-:title.html
 # Setup
 baseurl: /
 title: Cosey's Blog
-tagline: 'a web developer'
-description: '砍省程序猿一枚'
+tagline: 'A web developer.'
 url: http://coseylee.com
 paginate: 10
 paginate_path: "page-:num"
