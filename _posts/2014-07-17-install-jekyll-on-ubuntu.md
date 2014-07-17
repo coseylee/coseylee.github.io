@@ -7,7 +7,7 @@ tag: ubuntu jekyll
 ---
 
 这两天打算把之前注销的GitHub帐号重新启用，用来写博客用。  
-GitHub Pages 使用的是Jekyll引擎，所以在本地安装下，用来调试预览。
+GitHub Pages 使用的是 Jekyll 引擎解析，在本地安装上可以调试预览页面效果。
 
 **大概安装步骤**
 
