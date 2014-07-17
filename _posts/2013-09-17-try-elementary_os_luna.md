@@ -9,7 +9,7 @@ tags:
 - Ubuntu
 ---
 
->Elementary OS 是基于 Ubuntu 设计开发的一款 Linux 发行版，足够漂亮、足够简洁。下面都是我经过修改后的界面（改过字体、换了图标、删了默认浏览器、视频播放器等等）。
+Elementary OS 是基于 Ubuntu 设计开发的一款 Linux 发行版，足够漂亮、足够简洁。下面都是我经过修改后的界面（改过字体、换了图标、删了默认浏览器、视频播放器等等）。
 
 {:.center}
 [![Develop Server-2013-09-17-11-39-44.png](/uploadfile/201309/thum-55471379390020.png)](/uploadfile/201309/55471379390020.png)
