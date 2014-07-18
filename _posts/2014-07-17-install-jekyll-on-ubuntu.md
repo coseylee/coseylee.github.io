@@ -1,6 +1,5 @@
 ---
 layout: post
-date: 2014-07-17
 title: 在 Ubuntu 上安装 Jekyll 小记
 categories:
 - 技术生活
