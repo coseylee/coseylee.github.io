@@ -19,11 +19,11 @@ if ($rc -> hasMethod($this -> action))
     $rm = new ReflectionMethod($this, $this -> action);
     if (!$rm -> isPublic())
     {
-        $this -> output(’error’, ’404’);
+        $this -> output('error', '404');
     }
 }
 else
 {
-    $this -> output(’error’, ’404’);
+    $this -> output('error', '404');
 }
 {% endhighlight %}
