@@ -149,7 +149,7 @@ abbr[title] {
 /* Code */
 code,
 pre {
-  font-family: Menlo, Monaco, "Courier New", monospace;
+  font-family: 'Open Sans','Helvetica Neue',Arial,'Hiragino Sans GB','Microsoft YaHei','WenQuanYi Micro Hei',sans-serif;
 }
 code {
   padding: .25em .5em;
@@ -163,8 +163,8 @@ pre {
   margin-top: 0;
   margin-bottom: 1rem;
   padding: 1rem;
-  font-size: .8rem;
-  line-height: 1.4;
+  font-size: .9rem;
+  line-height: 1.5;
   white-space: pre;
   white-space: pre-wrap;
   word-break: break-all;
