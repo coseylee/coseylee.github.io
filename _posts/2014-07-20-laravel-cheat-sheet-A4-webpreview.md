@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Laravel API 简图
+title: Laravel 常用 API 简图
 categories:
 - 技术生活
 tags:
