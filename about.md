@@ -11,4 +11,5 @@ title: 关于
 
 现就职于沈阳某创业公司（O2O领域）
 
+开源 PHP 开发框架 [Random](http://git.oschina.net/Coseylee/Random) 作者 （已暂停开发）  
 [SAE 高级开发者](/uploadfile/201407/sae_cert.jpg)

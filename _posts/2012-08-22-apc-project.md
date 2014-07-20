@@ -12,7 +12,7 @@ tags:
 今天在黑大的群中突然得知 PECL 其中的 APC 项目由鸟哥（Laruence, [http://www.laruence.com](http://www.laruence.com)）维护。忍不住，就上去看了一眼哈哈，还是lead呢。
 
 {:.center}
-[![image](/uploadfile/upload/thum-7ab49f4b28b2f81efdc0270bfd937fb620120822065940.png)](/uploadfile/upload/thum-7ab49f4b28b2f81efdc0270bfd937fb620120822065940.png)
+[![image](/uploadfile/upload/7ab49f4b28b2f81efdc0270bfd937fb620120822065940.png)](/uploadfile/upload/7ab49f4b28b2f81efdc0270bfd937fb620120822065940.png)
 
 项目地址：[http://pecl.php.net/package/apc](http://pecl.php.net/package/apc)
 

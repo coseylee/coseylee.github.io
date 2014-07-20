@@ -1,7 +1,7 @@
 ---
 date: 2012-03-30 23:08:48+00:00
 layout: post
-title: PHP判断客户端是否使用代理服务器及其匿名级别（转）
+title: PHP 获取客户端代理服务器及其匿名级别（转）
 categories:
 - 技术生活
 tags:
