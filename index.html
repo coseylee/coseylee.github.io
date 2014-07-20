@@ -2,6 +2,11 @@
 layout: default
 title: 首页
 ---
+{% if paginator.page == 1 %}
+<div class="message" style="color: #268bd2; font-size: .9rem; text-align: center;">
+      公告：本博客已从 0x00.sinaapp.com 搬迁至此，部分博文已被清理，望周知。
+</div>
+{% endif %}
 
 <div class="posts">
   {% for post in paginator.posts %}
