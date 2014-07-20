@@ -9,8 +9,6 @@ title: 关于
 
 爱烟，喜酒，乐分享。
 
-微博：[http://t.qq.com/coseylee](http://t.qq.com/coseylee)
-
 现就职于沈阳某创业公司（O2O领域）
 
 [SAE 高级开发者](/uploadfile/201407/sae_cert.jpg)
