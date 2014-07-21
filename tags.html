@@ -3,7 +3,7 @@ layout: list
 title: 标签
 ---
 
-{% for tag in site.tags | sort:"title" %}
+{% for tag in site.tags | sort:"0" %}
 <h3 id="{{ tag[0] }}">{{ tag[0] }}</h3>
 <ul>
     {% for post in tag[1] %}
